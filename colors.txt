@@ -1,0 +1,21 @@
+orange = 16677399 
+5
+green = 645151
+6
+white = 13750737
+fire white = 14408667 
+multiplier white = 6184542
+3
+red = 16259896
+7
+blue = 690942
+fire blue = 953599
+blue multiplier = 1262961
+2
+purple = 15995380
+4
+yellow = 16711205
+fire yellow = 16776743
+1
+
+
